@@ -1,0 +1,55 @@
+{
+  "author": "I am Salman Adeeb From Adeeb Technology Lab (info.AdeebTechLab@gmail.com)",
+  "description": "A harmonious theme blending dark blue, white, and gold colors for an elegant browsing experience. Made for Google Chrome",
+  "icons": {
+    "128": "image/store_icon_128x128.png"
+  },
+  "manifest_version": 3,
+  "name": "IUB Portals Theme",
+  "short_name": "theme_iub_portals",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "image/ntp_background.jpg"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_size": "cover",
+      "ntp_background_repeat": "no-repeat"
+        },
+    "colors": {
+      "control_background": [255, 255, 255],
+      "control_button_background": [0, 46, 96],
+      "background_tab": [255, 255, 255],
+      "background_tab_inactive": [240, 240, 240],
+      "background_tab_incognito": [255, 255, 255],
+      "background_tab_incognito_inactive": [240, 240, 240],
+      "bookmark_text": [228, 171, 49],
+      "button_background": [0, 46, 96],
+      "frame": [228, 171, 49],
+      "frame_inactive": [200, 150, 40],
+      "frame_incognito": [228, 171, 49],
+      "frame_incognito_inactive": [200, 150, 40],
+      "ntp_background": [255, 255, 255],
+      "ntp_header": [228, 171, 49],
+      "ntp_link": [228, 171, 49],
+      "ntp_link_underline": [0, 46, 96],
+      "ntp_text": [228, 171, 49],
+      "ntp_section": [0, 46, 96],
+      "ntp_section_link": [228, 171, 49],
+      "ntp_section_link_underline": [0, 46, 96],
+      "ntp_section_text": [228, 171, 49],
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [228, 171, 49],
+      "tab_background_text": [228, 171, 49],
+      "tab_background_text_inactive": [200, 150, 40],
+      "tab_background_text_incognito": [228, 171, 49],
+      "tab_background_text_incognito_inactive": [200, 150, 40],
+      "tab_text": [228, 171, 49],
+      "toolbar": [0, 46, 96],
+      "toolbar_button_icon": [228, 171, 49],
+      "toolbar_text": [228, 171, 49]
+    }
+  },
+  "version": "1.0.0",
+  "version_name": "1.0.0"
+}
