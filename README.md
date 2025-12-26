@@ -1,6 +1,6 @@
 # 🎨 IUB Portals Theme
 
-**IUB Portals Theme** is a custom **Google Chrome theme** created by **Adeeb Technology Lab** that delivers a clean and elegant look inspired by the official IUB portal color palette — primarily dark blue, white, and gold. :contentReference[oaicite:1]{index=1}
+**IUB Portals Theme** is a custom **Google Chrome theme** created by **Adeeb Technology Lab** that delivers a clean and elegant look inspired by the official IUB portal color palette — primarily dark blue, white, and gold. 
 
 This theme enhances the browsing experience for students, faculty, and alumni accessing Islamic University of Bahawalpur (IUB) portals by creating a visually cohesive environment in the browser.
 
@@ -8,7 +8,7 @@ This theme enhances the browsing experience for students, faculty, and alumni ac
 
 ## 🧠 About
 
-Many students and staff frequently access various IUB online portals like the **E-Portal, LMS, My IUB, timetable, and more** for their academic and administrative needs. The IUB Portals Theme brings a consistent visual identity to your Chrome browser that reflects these platforms’ branding and makes your daily browsing feel more connected to your academic workflow. :contentReference[oaicite:2]{index=2}
+Many students and staff frequently access various IUB online portals like the **E-Portal, LMS, My IUB, timetable, and more** for their academic and administrative needs. The IUB Portals Theme brings a consistent visual identity to your Chrome browser that reflects these platforms’ branding and makes your daily browsing feel more connected to your academic workflow. 
 
 > **Note:** This is a browser theme — not a functional extension — and is designed to *style* Chrome’s UI rather than alter the functionality of IUB portals themselves. 
 
